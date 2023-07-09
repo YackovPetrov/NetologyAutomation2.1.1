@@ -1,1 +1,1 @@
-# NetologyAutomation2.2 [![Build status](https://ci.appveyor.com/api/projects/status/pbknwag7mj1hcubk?svg=true)](https://ci.appveyor.com/project/YackovPetrov/netologyautomation2-2)
+# NetologyAutomation2.1 [![Build status](https://ci.appveyor.com/api/projects/status/2tks7k8d4lg9cst2?svg=true)](https://ci.appveyor.com/project/YackovPetrov/netologyautomation2-1-1)
